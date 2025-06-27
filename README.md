@@ -12,7 +12,6 @@ This project performs color detection and object tracking from a **video file** 
 
 
 
-![GitHub stars](https://img.shields.io/github/stars/Mohamed-Hesham-Negm/color-tracking?style=social)
 
 ---
 
