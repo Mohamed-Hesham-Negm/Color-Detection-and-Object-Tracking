@@ -6,7 +6,10 @@ This project performs color detection and object tracking from a **video file** 
 
 ## 📸 Demo
 
-![Tracking Demo](balls_image.jpg)
+## 📸 Demo
+
+![Tracking Demo](output.gif)
+
 
 
 ---
