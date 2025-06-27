@@ -42,6 +42,15 @@ This project performs color detection and object tracking from a **video file** 
 
 ---
 
+## ⚙️ How It Works
+
+The program uses OpenCV to process each frame from a video. It converts the frame to the HSV (Hue, Saturation, Value) color space, which allows for more robust color filtering compared to RGB.  
+
+For each predefined color, it creates a binary mask and detects contours to locate objects of that color. The center of the object is calculated and drawn onto the output frame. Over time, this creates a visual trail showing the object's movement.
+
+
+---
+
 ## ▶️ How to Run
 
 1. Clone the repository or download the code.
